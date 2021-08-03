@@ -1,0 +1,30 @@
+.ods-main {
+  grid-area: main;
+}
+
+.ods-intro {
+  grid-area: intro;
+}
+
+.ods-content {
+  grid-area: content;
+
+  > h2:not(:first-child) {
+    margin-top: 3rem;
+  }
+
+  > h3 {
+    margin-top: 2rem;
+  }
+
+  > ul li,
+  > ol li {
+    margin-bottom: .25rem;
+
+    > p ~ ul {
+      margin-top: -.5rem;
+      margin-bottom: 1rem;
+    }
+  }
+  
+}

@@ -1,0 +1,25 @@
+@media (min-width: 480px) {
+    .bd-content .highlight {
+        margin-right: 0;
+        margin-left: 0;
+    }    
+}
+
+.highlight {
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: #fafafa;
+    border: .125rem solid #ddd;
+}
+
+.highlight pre {
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+    white-space: pre;
+    background-color: transparent;
+    border: 0;
+}

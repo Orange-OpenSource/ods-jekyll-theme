@@ -1,0 +1,19 @@
+# Site settings
+title: Your Title Here
+baseurl: "/ods-jekyll-theme/"
+author: Copyright &copy; 2021 - Orange
+lang: en_US
+
+# Build settings
+safe: true
+markdown: kramdown
+sass:
+  indentWidth: 4
+  precision: 10
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

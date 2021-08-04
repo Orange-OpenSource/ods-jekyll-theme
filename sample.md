@@ -42,6 +42,15 @@ This is a code sample in [XML]()
 </xml>
 ```
 
+``` xml
+<Button 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="button"
+/>
+```
+
+
 ### Kotlin code sample
 
 This is a code sample in [Kotlin]()

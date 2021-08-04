@@ -10,9 +10,6 @@ markdown: kramdown
 sass:
   indentWidth: 4
   precision: 10
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock

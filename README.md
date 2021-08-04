@@ -35,3 +35,7 @@ bundle exec jekyll serve \
     --livereload-port 4001
 ```
 
+## Check on Github Pages
+
+Here is a sample page using this theme on [Github Pages](https://ods-sandbox.github.io/ods-jekyll-theme/sample)
+

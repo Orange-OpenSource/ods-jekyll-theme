@@ -7,6 +7,9 @@ lang: en_US
 # Build settings
 safe: true
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
 sass:
   indentWidth: 4
   precision: 10

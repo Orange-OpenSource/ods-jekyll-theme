@@ -61,6 +61,11 @@ fun main (args: Array<String>) {
 }
 ```
 
+### Image from assets
 
+!["Sample image"](sample.png)
 
+### Image from URL
+
+!["Sample image"](https://www.w3.org/People/mimasa/test/imgformat/img/w3c_home.png)
 

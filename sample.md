@@ -63,9 +63,12 @@ fun main (args: Array<String>) {
 
 ### Image from assets
 
-!["Sample image"](sample.png)
+![Octicons-mark-github](240px-Octicons-mark-github.svg.png)
+
+<a href="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg">GitHub</a>, <a href="http://opensource.org/licenses/mit-license.php">MIT</a>, via Wikimedia Commons
 
 ### Image from URL
 
-!["Sample image"](https://www.w3.org/People/mimasa/test/imgformat/img/w3c_home.png)
+![Octicons-mark-github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/240px-Octicons-mark-github.svg.png)
 
+<a href="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg">GitHub</a>, <a href="http://opensource.org/licenses/mit-license.php">MIT</a>, via Wikimedia Commons

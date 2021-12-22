@@ -37,5 +37,5 @@ bundle exec jekyll serve \
 
 ## Check on Github Pages
 
-Here is a sample page using this theme on [Github Pages](https://ods-sandbox.github.io/ods-jekyll-theme/sample)
+Here is a sample page using this theme on [Github Pages](https://Orange-OpenSource.github.io/ods-jekyll-theme/sample)
 

@@ -1,0 +1,25 @@
+Parts list under Orange SA Copyright
+Copyright (C) 2016 - 2022 Orange SA All rights reserved
+
+The following parts are proprietary information of Orange.
+You shall not use or display any trade names, trademarks, service marks, products names, illustrations or designs used within the software
+or displayed on this website and owned by Orange SA and its subsidiaries,
+in whole or part of, in any medium, except as required for reasonable and customary use in describing the origin of the software
+and reproducing the content of the NOTICE and DOCUMENTATION files.
+Any use or displaying shall constitute an infringement under intellectual property laws of France and international conventions.
+
+assets/favicons/android-chrome-192x192.png
+assets/favicons/android-chrome-512x512.png
+assets/favicons/apple-touch-icon.png
+assets/favicons/favicon-16x16.png
+assets/favicons/favicon-32x32.png
+assets/favicons/favicon.ico
+assets/favicons/mstile-144x144.png
+assets/favicons/mstile-150x150.png
+assets/favicons/mstile-150x150.png
+assets/favicons/mstile-310x150.png
+assets/favicons/mstile-310x310.png
+assets/favicons/mstile-70x70.png
+assets/favicons/safari-pinned-tab.svg
+
+End of the parts list under Orange SA Copyright

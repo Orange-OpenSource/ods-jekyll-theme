@@ -2,7 +2,7 @@
 
 A Jekyll implementation template powered by [Boosted](https://boosted.orange.com).
 
-Based on Boosted v5.0.2.
+Based on Boosted v5.2.2.
 
 ## To use the theme template in your project
 

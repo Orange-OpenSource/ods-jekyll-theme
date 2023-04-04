@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "ods-jekyll-theme"
-  spec.version       = "1.0.0"
+  spec.version       = "0.0.0"
   spec.authors       = ["Julien Déramond, Ludovic Lelion, Pauline Auvray, Arnaud Ruffin"]
   spec.email         = ["julien.deramond@orange.com, ludovic.lelion@orange.com, pauline.auvray@orange.com, arnaud.ruffin@orange.com"]
 

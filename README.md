@@ -3,7 +3,7 @@
 <p align="center">
   Orange Design System Jekyll Theme provides a Jekyll theme for Orange powered by <a href="https://boosted.orange.com">Boosted</a> v5.3.3.
   <br>
-  <a href="https://orange-opensource.github.io/ods-jekyll-theme/"><strong>Visit ODS Jekyll Theme sample page</strong></a>
+  <a href="https://orange-opensource.github.io/ods-jekyll-theme/sample"><strong>Visit ODS Jekyll Theme sample page</strong></a>
 </p>
 
 ## Table of contents

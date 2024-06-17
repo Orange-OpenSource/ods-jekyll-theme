@@ -1,10 +1,23 @@
-# Theme for Jekyll
+<h1 align="center">Orange Design System Jekyll Theme</h1>
 
-A Jekyll implementation template powered by [Boosted](https://boosted.orange.com).
+<p align="center">
+  Orange Design System Jekyll Theme provides a Jekyll theme for Orange powered by <a href="https://boosted.orange.com">Boosted</a> v5.3.3.
+  <br>
+  <a href="https://orange-opensource.github.io/ods-jekyll-theme/sample"><strong>Visit ODS Jekyll Theme sample page</strong></a>
+</p>
 
-Based on Boosted v5.3.3.
+## Table of contents
 
-## To use the theme template in your project
+- [Rendering](#rendering)
+- [Quick start](#quick-start)
+- [Contributing](#contributing)
+- [Copyright and license](#copyright-and-license)
+
+## Rendering
+
+Here is a sample page using this theme on [Github Pages](https://orange-opensource.github.io/ods-jekyll-theme/sample).
+
+## Quick start
 
 - Start by adding the theme in your `_config.yml`
 
@@ -22,20 +35,12 @@ description: Page description
 ---
 ```
 
-## To test the theme locally
+## Contributing
 
-```
-bundle install
-bundle exec jekyll serve \
-    -H 0.0.0.0 \
-    --trace \
-    --watch \
-    --force_polling \
-    --livereload \
-    --livereload-port 4001
-```
+Please read through our [contributing guidelines](https://github.com/Orange-OpenSource/ods-jekyll-theme/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-## Check on Github Pages
+Please refer to the [developer guide](https://github.com/Orange-OpenSource/ods-jekyll-theme/blob/main/DEVELOP.md) for information on how to build the library.
 
-Here is a sample page using this theme on [Github Pages](https://Orange-OpenSource.github.io/ods-jekyll-theme/sample)
+## Copyright and license
 
+Code released under the MIT License.
